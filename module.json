@@ -1,5 +1,5 @@
 {
-  "id": "macro-items",
+  "id": "macroitems",
   "title": "Macro Items",
   "description": "A Foundry VTT module that allow to trigger a macro each time an item is used.",
   "version": "0.0.1",
