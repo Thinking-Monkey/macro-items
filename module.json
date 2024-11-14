@@ -1,0 +1,20 @@
+{
+  "id": "macro-items",
+  "title": "Macro Items",
+  "description": "A Foundry VTT module that allow to trigger a macro each time an item is used.",
+  "version": "0.0.1",
+  "author": "Thinking Monkey",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "system": ["pf2e"],
+  "scripts": ["main.js"],
+  "url": "https://github.com/Thinking-Monkey/macro-items",
+  "manifest": "https://il-tuo-repository-url/module.json",
+  "download": "https://il-tuo-repository-url/trigger-macro-on-use.zip",
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": ["en", "it"]
+}
