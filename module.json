@@ -12,7 +12,6 @@
       }
     }
   ],
-  "system": ["pf2e"],
   "scripts": ["main.js"],
   "url": "https://github.com/Thinking-Monkey/macro-items",
   "manifest": "https://github.com/Thinking-Monkey/macro-items/blob/main/module.json",
